@@ -10,6 +10,14 @@ Media drop for [SimmaSignals](https://x.com/SimmaGus): videos and stills that ne
 - [9:16 video](bring-ai-to-your-field/episode-2/bring-ai-ep2-flat-9x16-v3.mp4)
 - [4:5 card](bring-ai-to-your-field/episode-2/bring-ai-ep2-flat-card.png)
 
+## What AI infrastructure actually is
+
+Standalone intro (about 3 minutes 15 seconds). English narration, Chinese subtitles.
+
+- [16:9 video](ai-infra-intro/ai-infra-intro-16x9-v3.mp4)
+- [9:16 video](ai-infra-intro/ai-infra-intro-9x16-v3.mp4)
+- [4:5 card](ai-infra-intro/ai-infra-intro-card.png)
+
 On your Mac:
 
 ```bash
