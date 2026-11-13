@@ -2,6 +2,14 @@
 
 Media drop for [SimmaSignals](https://x.com/SimmaGus): videos and stills that need to move between the bot and this Mac.
 
+## What is AI for Science
+
+Standalone intro (about 1 minute 58 seconds). English narration, Chinese subtitles.
+
+- [16:9 video](ai-for-science/ai-for-science-16x9-v3.mp4)
+- [9:16 video](ai-for-science/ai-for-science-9x16-v3.mp4)
+- [4:5 card](ai-for-science/ai-for-science-card.png)
+
 ## Bring AI to Your Field — Episode 2
 
 **Your papers are not inputs yet** (about 49 seconds)
