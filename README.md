@@ -2,6 +2,15 @@
 
 Media drop for [SimmaSignals](https://x.com/SimmaGus): videos and stills that need to move between the bot and this Mac.
 
+## Fearless Draft is constrained search
+
+Standalone Worlds 2026 tie-in (about 61 seconds). Realistic live-action look, English narration, Chinese subtitles. Gen.G vs Bilibili Gaming, Fearless Draft as a search problem.
+
+- [16:9 video](worlds-fearless-draft/worlds-fearless-draft-16x9.mp4)
+- [9:16 video](worlds-fearless-draft/worlds-fearless-draft-9x16.mp4)
+- [16:9 card](worlds-fearless-draft/worlds-fearless-draft-card.jpg)
+- [9:16 card](worlds-fearless-draft/worlds-fearless-draft-card-9x16.jpg)
+
 ## What is AI for Science
 
 Standalone intro (about 1 minute 58 seconds). English narration, Chinese subtitles.
